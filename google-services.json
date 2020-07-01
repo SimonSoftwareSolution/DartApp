@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "392848157146",
+    "firebase_url": "https://dartapp-61d36.firebaseio.com",
+    "project_id": "dartapp-61d36",
+    "storage_bucket": "dartapp-61d36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392848157146:android:1904c6671179ad0e4df8e3",
+        "android_client_info": {
+          "package_name": "DartApp.Android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392848157146-casa11i8t6p2uhklvgmuame6qti14tp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2SlopcCq4IBvXtvbp4760si8cbCMb8HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392848157146-casa11i8t6p2uhklvgmuame6qti14tp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
